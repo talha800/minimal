@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## Fraud Detection
 
-<center><img src="images/fraud-detection.jpg"/></center>
+<center><img src="assets/img/fraud-detection.jpg"/></center>
 
 ### Header 3
 
